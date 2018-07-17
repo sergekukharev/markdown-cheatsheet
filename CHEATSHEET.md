@@ -79,7 +79,21 @@ item
 
 # Tables
 
+```markdown
+| Tables        | Can Be   | Aligned      |
+| ------------- |:--------:| ------------:|
+| left aligned  | centered | right aligned|
+| and miss some columns |
+| and be ugly | while still formatted| $1 |
+```
 
 # Extras
 
 :hankey: [see emoji cheatsheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
+```markdown
+Horizontal lines (3 or more characters):
+---
+***
+___
+```
